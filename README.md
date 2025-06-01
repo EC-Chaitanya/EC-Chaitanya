@@ -7,7 +7,7 @@
 📫 Reach me: singhchaitanya5454@gmail.com 
 
 ## 🛠️ Skills
-- 💻 Languages: C, Python, JavaScript  
+- 💻 Languages: Python, JavaScript  
 - 🌐 Web: HTML, CSS, JS, React  
 - ⚙️ Tools: Git, GitHub, VSCode
 
