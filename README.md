@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Chaitanya Singh
 
-<!--
-**EC-Chaitanya/EC-Chaitanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at Allahabad University  
+💻 Passionate about Web Development & Data Structures  
+🚀 Currently learning: ReactJS, Python, and DSA  
+🔗 Portfolio: [your-website-link]  
+📫 Reach me: singhchaitanya5454@gmail.com 
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- 💻 Languages: C, Python, JavaScript  
+- 🌐 Web: HTML, CSS, JS, React  
+- ⚙️ Tools: Git, GitHub, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=EC-Chaitanya&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EC-Chaitanya&layout=compact&theme=tokyonight)
+
+## 📂 Projects
+- **[Frontend Projects](https://github.com/EC-Chaitanya/Frontend_Projects)** - Animated and cloned websites  
+- **[DSA in Python](https://github.com/EC-Chaitanya/Dsa-gfg160-_in_python)** - 160-day DSA challenge  
+- **[CODSOFT](https://github.com/EC-Chaitanya/CODSOFT)** - Internship projects  
+
+---
+⭐️ From [Chaitanya Singh](https://github.com/EC-Chaitanya)
