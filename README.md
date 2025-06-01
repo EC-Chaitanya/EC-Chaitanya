@@ -42,9 +42,6 @@
 
 - 💡 [**Frontend Projects**](https://github.com/EC-Chaitanya/Frontend_Projects) – Clone websites with full HTML/CSS/JS
 - 🧩 [**DSA Daily (GFG 160)**](https://github.com/EC-Chaitanya/Dsa-gfg160-_in_python) – 160-day challenge in Python
-- 💼 [**Internship Projects @ CodSoft**](https://github.com/EC-Chaitanya/CODSOFT)
-- 🧠 [**DSA Questions in C**](https://github.com/EC-Chaitanya/DSA_Questions)
-
 ---
 
 ## 📫 Connect With Me
