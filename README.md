@@ -18,7 +18,7 @@
 ## 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java, sql,python,c,git,github,vscode" />
 </p>
 
 ---
@@ -51,6 +51,6 @@
 
 <p align="center">
   <a href="mailto:singhchaitanya5454@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/chaitanya-singh-a502a9289 "><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/EC-Chaitanya"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
