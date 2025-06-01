@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Chaitanya+Singh;Future+Full-Stack+Developer+%F0%9F%9A%80;Lover+of+Code+%E2%9C%A8+and+Learning+%F0%9F%93%96" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Chaitanya+Singh;Lover+of+Code+%E2%9C%A8+and+Learning+%F0%9F%93%96" alt="Typing SVG">
 </p>
 
 ---
